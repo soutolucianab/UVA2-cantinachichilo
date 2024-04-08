@@ -1,0 +1,102 @@
+/*ESTRUCTURA*/
+.header{
+  background-color: beige;
+  padding: 10px;
+  border: 20px solid darkred;
+}
+
+.box1{
+  background-color: beige;
+  padding: 10px;
+}
+
+.imagen{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 200px;
+}
+
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50px;
+  height: 50px;
+}
+
+.contador{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+  padding-bottom: 10px;
+}
+
+.box2{
+  background-color: beige;
+  padding: 10px;
+  border: 5px dotted darkred;
+
+}
+/*ESTILOS PARA LA TABLA*/
+table, td, th {  
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 15px;
+}
+
+/*ESTILOS PARA LA LISTA*/
+ul{
+  text-align: center;
+}
+
+/*TEXTO*/
+.titulo{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  color: darkred;
+  text-align: center;
+}
+
+.subtitulo{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: darkred;
+  text-align: center;
+}
+
+.subtituloalt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+    text-align:justify;
+    font-weight: bold;
+}
+
+.texto{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  color: black;
+  text-align:center;
+  font-weight:300 ;
+}
+
+.alttext{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color: darkgreen;
+  text-decoration: overline;
+  text-decoration: underline;
+  text-align: center;
+}
